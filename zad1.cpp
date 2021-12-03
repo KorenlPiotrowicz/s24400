@@ -20,4 +20,5 @@ int main() {
         ptr++;
     }
     std::cout << "Długość: " << len << "\n";
+   return 0;
 }
